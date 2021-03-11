@@ -19,9 +19,9 @@
 
 <br>
 
-- I was working as system engineer :rocket: and I know how clouds looks for real :cloud:
-- Trying myself in game and web development, but fell in love to DevOps :thumbsup:
-- Love to automate, technologies and open source :robot:
+- I worked as system engineer :rocket: and I know how clouds look for real :cloud:
+- I tried myself in game and web development, but fell in love to DevOps :thumbsup:
+- I love to automate, technologies and open source :robot:
 - I want to wake up in 2142 :alien:
 
 <br>
@@ -30,10 +30,10 @@
 
 ### 🧐 More about me:
 
-- Don't like to learn/work at home, so I often visit office and coworking space :office:
-- Watch a lot of anime, tv shows and twitch :tv:
+- I don't like to learn/work at home, so I often visit office and coworking space :office:
+- I watch a lot of anime, tv shows and twitch :tv:
 - Geralt is my favorite character and «The Witcher» is my favorite book serial :wolf:
-- Love to wear earring in my right ear :ear:
+- I like to wear earring in my right ear :ear:
 - I love tom yam very much! :shallow_pan_of_food:
 - My first coolest company is [Selectel](https://selectel.ru/)
 
