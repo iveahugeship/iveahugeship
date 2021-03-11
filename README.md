@@ -35,6 +35,7 @@
 - I like to wear earring in my right ear :ear:
 - I love tom yam very much! :shallow_pan_of_food:
 - My first coolest company is [Selectel](https://selectel.ru/)
+- I write and publish articles on [Habrahabr](https://habr.com/ru/users/iveahugeship/)
 
 <br>
 
