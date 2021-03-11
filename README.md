@@ -5,7 +5,6 @@
 
 <div align="center">
 <a href="https://t.me/iveahugeship"><img src="./assets/svg/telegram.svg" height=35 /></a>
-    <a href="mailto:iveahugeship@gmail.com"><img src="./assets/svg/gmail.svg" height=35 /></a>
     <a href="https://www.buymeacoffee.com/iveahugeship"><img src="./assets/svg/buymeacoffee.svg" height=35 /></a>
     <a href="https://open.spotify.com/user/z6l6jifwogux6as8qefgk19hf"><img src="./assets/svg/spotify.svg" height=35 /></a>
     <a href="https://steamcommunity.com/id/iveahugeship"><img src="./assets/svg/steam.svg" height=35 /></a>
