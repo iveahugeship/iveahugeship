@@ -6,7 +6,6 @@
 <div align="center">
 <a href="https://t.me/iveahugeship"><img src="./assets/svg/telegram.svg" height=35 /></a>
     <a href="https://www.buymeacoffee.com/iveahugeship"><img src="./assets/svg/buymeacoffee.svg" height=35 /></a>
-    <a href="https://open.spotify.com/user/z6l6jifwogux6as8qefgk19hf"><img src="./assets/svg/spotify.svg" height=35 /></a>
     <a href="https://steamcommunity.com/id/iveahugeship"><img src="./assets/svg/steam.svg" height=35 /></a>
     <a href="https://github.com/iveahugeship"><img src="./assets/svg/github.svg" height=35 /></a>
     <!-- <a href="#"><img src="#" height=35 /></a> -->
@@ -45,9 +44,6 @@
 
 <br>
 
-<div align=center>
-	<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=z6l6jifwogux6as8qefgk19hf&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=z6l6jifwogux6as8qefgk19hf&cover_image=true&theme=natemoo-re" height=120 /></a>
-</div>
 <div align=center>
 	<a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=iveahugeship.iveahugeship" height=23 /></a>
 	<a href="https://www.buymeacoffee.com/iveahugeship"><img src="https://img.shields.io/badge/coffee-donate-yellow" height=23 /></a>
