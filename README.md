@@ -4,10 +4,9 @@
 </div>
 
 <div align="center">
-<a href="https://t.me/iveahugeship"><img src="./assets/svg/telegram.svg" height=35 /></a>
-    <a href="https://www.buymeacoffee.com/iveahugeship"><img src="./assets/svg/buymeacoffee.svg" height=35 /></a>
-    <a href="https://steamcommunity.com/id/iveahugeship"><img src="./assets/svg/steam.svg" height=35 /></a>
+    <a href="https://t.me/iveahugeship"><img src="./assets/svg/telegram.svg" height=35 /></a>
     <a href="https://github.com/iveahugeship"><img src="./assets/svg/github.svg" height=35 /></a>
+    <a href="https://steamcommunity.com/id/iveahugeship"><img src="./assets/svg/steam.svg" height=35 /></a>
     <!-- <a href="#"><img src="#" height=35 /></a> -->
 </div>
 
