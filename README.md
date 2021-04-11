@@ -45,5 +45,4 @@
 
 <div align=center>
 	<a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=iveahugeship.iveahugeship" height=23 /></a>
-	<a href="https://www.buymeacoffee.com/iveahugeship"><img src="https://img.shields.io/badge/coffee-donate-yellow" height=23 /></a>
 </div>
