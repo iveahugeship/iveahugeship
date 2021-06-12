@@ -37,9 +37,15 @@
 
 <br>
 
-### 🔨 Languages and Tools:
+### 💻 Workspace:
 
-<a href="https://www.gnu.org/software/bash/"><img src="./assets/svg/bash.svg" height=35 /></a>  <a href="https://www.kernel.org/"><img src="./assets/svg/linux.svg" height=35 /></a>   <a href="https://git-scm.com/"><img src="./assets/svg/git.svg" height=35 /></a>   <a href="https://www.docker.com/"><img src="./assets/svg/docker.svg" height=35 /></a>   <a href="https://www.chef.io/"><img src="./assets/svg/chef.svg" height=35 /></a>   <a href="https://www.vagrantup.com/"><img src="./assets/svg/vagrant.svg" height=35 /></a>  <a href="https://www.python.org/"><img src="./assets/svg/python.svg" height=35 /></a>
+<!-- Workspace icons downloaded from https://simpleicons.org/ -->
+<a href="https://neovim.io/"><img src="./assets/svg/tools/neovim.svg" height=35 /></a>   <a href="https://github.com/tmux/tmux"><img src="./assets/svg/tools/tmux.svg" height=35 /></a>
+
+### 🔨 Tools:
+
+<!-- Tools icons downloaded from https://github.com/devicons/devicon -->
+<a href="https://www.gnu.org/software/bash/"><img src="./assets/svg/tools/bash.svg" height=35 /></a>   <a href="https://www.kernel.org/"><img src="./assets/svg/tools/linux.svg" height=35 /></a>   <a href="https://git-scm.com/"><img src="./assets/svg/tools/git.svg" height=35 /></a>   <a href="https://about.gitlab.com/"><img src="./assets/svg/tools/gitlab.svg" height=35 /></a>   <a href="https://www.docker.com/"><img src="./assets/svg/tools/docker.svg" height=35 /></a>  <a href="https://www.python.org/"><img src="./assets/svg/tools/python.svg" height=35 /></a>   <a href="http://www.lua.org/"><img src="./assets/svg/tools/lua.svg" height=35 /></a>   <a href="https://www.ruby-lang.org/en/"><img src="./assets/svg/tools/ruby.svg" height=35 /></a>
 
 <br>
 
