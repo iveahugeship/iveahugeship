@@ -1,12 +1,12 @@
 <div align="center">
   <h2>Hi there! I'm iveahugeship <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
-  <a href="#"><img src="./assets/svg/hehim.svg" height=20 /></a>
+  <a href="#"><img src="./assets/svg/social/hehim.svg" height=20 /></a>
 </div>
 
 <div align="center">
-    <a href="https://t.me/iveahugeship"><img src="./assets/svg/telegram.svg" height=35 /></a>
-    <a href="https://github.com/iveahugeship"><img src="./assets/svg/github.svg" height=35 /></a>
-    <a href="https://steamcommunity.com/id/iveahugeship"><img src="./assets/svg/steam.svg" height=35 /></a>
+    <a href="https://t.me/iveahugeship"><img src="./assets/svg/social/telegram.svg" height=35 /></a>
+    <a href="https://github.com/iveahugeship"><img src="./assets/svg/social/github.svg" height=35 /></a>
+    <a href="https://steamcommunity.com/id/iveahugeship"><img src="./assets/svg/social/steam.svg" height=35 /></a>
     <!-- <a href="#"><img src="#" height=35 /></a> -->
 </div>
 
