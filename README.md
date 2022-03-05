@@ -44,9 +44,3 @@
 
 <!-- Tools icons downloaded from https://github.com/devicons/devicon -->
 <a href="https://www.gnu.org/software/bash/"><img src="./assets/svg/tools/bash.svg" height=35 /></a>   <a href="https://www.kernel.org/"><img src="./assets/svg/tools/linux.svg" height=35 /></a>   <a href="https://git-scm.com/"><img src="./assets/svg/tools/git.svg" height=35 /></a>   <a href="https://about.gitlab.com/"><img src="./assets/svg/tools/gitlab.svg" height=35 /></a>   <a href="https://www.docker.com/"><img src="./assets/svg/tools/docker.svg" height=35 /></a>  <a href="https://www.python.org/"><img src="./assets/svg/tools/python.svg" height=35 /></a>   <a href="https://www.ruby-lang.org/en/"><img src="./assets/svg/tools/ruby.svg" height=35 /></a>   <a href="https://www.terraform.io/"><img src="./assets/svg/tools/terraform.svg" height=35 /></a>   <a href="https://github.com/chef/chef/"><img src="./assets/svg/tools/chef.svg" height=35 /></a>
-
-<br>
-
-<div align=center>
-	<a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=iveahugeship.iveahugeship" height=23 /></a>
-</div>
