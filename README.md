@@ -4,12 +4,12 @@
 </div>
 
 <div align="center">
-    <a href="https://linktr.ee/iveahugeship"><img src="./assets/svg/social/qr.svg" height=35 /></a>
-    <!-- <a href="#"><img src="#" height=35 /></a> -->
+  <a href="https://linktr.ee/iveahugeship"><img src="./assets/svg/social/link.svg" height=35 /></a>
+  <!-- <a href="#"><img src="#" height=35 /></a> -->
 </div>
 
 <div align=center>
-	<h4>Nikolay Leschev | System Administrator</h4>
+  <h4>Nikolay Leschev | System Administrator</h4>
 </div>
 
 <br>
@@ -38,7 +38,7 @@
 ### 💻 Workspace:
 
 <!-- Workspace icons downloaded from https://simpleicons.org/ -->
-<a href="https://github.com/tmux/tmux"><img src="./assets/svg/tools/tmux.svg" height=35 /></a>   <a href="https://github.com/alacritty/alacritty"><img src="./assets/svg/tools/alacritty.svg" height=35 /></a>   <a href="https://github.com/ohmyzsh/ohmyzsh"><img src="./assets/svg/tools/zsh.svg" height=35 /></a>   <a href="https://github.com/starship/starship"><img src="./assets/svg/tools/starship.svg" height=35 /></a>
+<a href="https://github.com/tmux/tmux"><img src="./assets/svg/tools/tmux.svg" height=35 /></a>   <a href="https://github.com/alacritty/alacritty"><img src="./assets/svg/tools/alacritty.png" height=35 /></a>   <a href="https://github.com/ohmyzsh/ohmyzsh"><img src="./assets/svg/tools/ohmyzsh.svg" height=35 /></a>   <a href="https://github.com/starship/starship"><img src="./assets/svg/tools/starship.png" height=35 /></a>
 
 ### 🔨 Tools:
 
