@@ -4,14 +4,12 @@
 </div>
 
 <div align="center">
-    <a href="https://t.me/iveahugeship"><img src="./assets/svg/social/telegram.svg" height=35 /></a>
-    <a href="https://github.com/iveahugeship"><img src="./assets/svg/social/github.svg" height=35 /></a>
-    <a href="https://steamcommunity.com/id/iveahugeship"><img src="./assets/svg/social/steam.svg" height=35 /></a>
+    <a href="https://linktr.ee/iveahugeship"><img src="./assets/svg/social/qr.svg" height=35 /></a>
     <!-- <a href="#"><img src="#" height=35 /></a> -->
 </div>
 
 <div align=center>
-	<h4>Nikolay Leschev | System Administrator | Russia</h4>
+	<h4>Nikolay Leschev | System Administrator</h4>
 </div>
 
 <br>
@@ -40,12 +38,12 @@
 ### 💻 Workspace:
 
 <!-- Workspace icons downloaded from https://simpleicons.org/ -->
-<a href="https://neovim.io/"><img src="./assets/svg/tools/neovim.svg" height=35 /></a>   <a href="https://github.com/tmux/tmux"><img src="./assets/svg/tools/tmux.svg" height=35 /></a>
+<a href="https://github.com/tmux/tmux"><img src="./assets/svg/tools/tmux.svg" height=35 /></a>   <a href="https://github.com/alacritty/alacritty"><img src="./assets/svg/tools/alacritty.svg" height=35 /></a>   <a href="https://github.com/ohmyzsh/ohmyzsh"><img src="./assets/svg/tools/zsh.svg" height=35 /></a>   <a href="https://github.com/starship/starship"><img src="./assets/svg/tools/starship.svg" height=35 /></a>
 
 ### 🔨 Tools:
 
 <!-- Tools icons downloaded from https://github.com/devicons/devicon -->
-<a href="https://www.gnu.org/software/bash/"><img src="./assets/svg/tools/bash.svg" height=35 /></a>   <a href="https://www.kernel.org/"><img src="./assets/svg/tools/linux.svg" height=35 /></a>   <a href="https://git-scm.com/"><img src="./assets/svg/tools/git.svg" height=35 /></a>   <a href="https://about.gitlab.com/"><img src="./assets/svg/tools/gitlab.svg" height=35 /></a>   <a href="https://www.docker.com/"><img src="./assets/svg/tools/docker.svg" height=35 /></a>  <a href="https://www.python.org/"><img src="./assets/svg/tools/python.svg" height=35 /></a>   <a href="http://www.lua.org/"><img src="./assets/svg/tools/lua.svg" height=35 /></a>   <a href="https://www.ruby-lang.org/en/"><img src="./assets/svg/tools/ruby.svg" height=35 /></a>   <a href="https://www.terraform.io/"><img src="./assets/svg/tools/terraform.svg" height=35 /></a>
+<a href="https://www.gnu.org/software/bash/"><img src="./assets/svg/tools/bash.svg" height=35 /></a>   <a href="https://www.kernel.org/"><img src="./assets/svg/tools/linux.svg" height=35 /></a>   <a href="https://git-scm.com/"><img src="./assets/svg/tools/git.svg" height=35 /></a>   <a href="https://about.gitlab.com/"><img src="./assets/svg/tools/gitlab.svg" height=35 /></a>   <a href="https://www.docker.com/"><img src="./assets/svg/tools/docker.svg" height=35 /></a>  <a href="https://www.python.org/"><img src="./assets/svg/tools/python.svg" height=35 /></a>   <a href="https://www.ruby-lang.org/en/"><img src="./assets/svg/tools/ruby.svg" height=35 /></a>   <a href="https://www.terraform.io/"><img src="./assets/svg/tools/terraform.svg" height=35 /></a>   <a href="https://github.com/chef/chef/"><img src="./assets/svg/tools/chef.svg" height=35 /></a>
 
 <br>
 
