@@ -9,13 +9,13 @@
 
 ### 🧐 More about me:
 
-- I don't like to learn or work at home, so I often visit the office and coworking spaces 🏢.
-- I watch a lot of anime, TV shows, and Twitch streams 📺.
+- I don't like to learn or work at home, so I often visit an office or coworking spaces 🏢.
+- I watch lot of anime, TV shows, and Twitch streams 📺.
 - Geralt is my favorite character, and "The Witcher" is my favorite book series 🐺.
-- I like to wear an earring in my right ear 👂.
+- I wear an earring in my right ear 👂.
 - I love tom yam very much! 🍲
 - My first coolest company is [Selectel](https://selectel.ru/).
 - I write and publish articles on [Habrahabr](https://habr.com/ru/users/iveahugeship/).
 
 ### 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=iveahugeship&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=iveahugeship&theme=oldie&no-frame=false&no-bg=false&margin-w=4)
